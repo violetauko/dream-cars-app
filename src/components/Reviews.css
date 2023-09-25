@@ -1,0 +1,100 @@
+.r-container {
+  margin-top: 3rem;
+  text-align: center;
+}
+.r-container h2 {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.8rem;
+}
+
+.r-container h1 {
+  color: #010824;
+  font-size: 2rem;
+  font-family: "Poppins", sans-serif;
+}
+
+.r-cards {
+  display: flex;
+  justify-content: space-evenly;
+  height: 60vh;
+  margin-top: 3rem;
+}
+
+.r-card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 30%;
+  border-radius: 0.5rem;
+  background: #010824;
+}
+
+.r-cards h3 {
+  color: #fb8c00;
+}
+
+.r-card p {
+  padding: 0 1rem;
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  font-weight: 300;
+  color: white;
+  margin-top: 1rem;
+  line-height: 1.6rem;
+  /* margin-top: 1rem; */
+}
+
+#im-icon {
+  padding-top: 1rem;
+  color: #fb8c00;
+  /* margin-left: 40%; */
+}
+
+.ri-icons {
+  display: flex;
+  justify-content: center;
+  color: #fb8c00;
+  margin-top: 1rem;
+}
+
+.photo {
+  width: 5rem;
+  height: 5rem;
+  padding: 0.5rem;
+}
+
+.photo img {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  margin-left: 2rem;
+  border: solid #010824;
+}
+@media screen and (max-width: 800px) {
+  .r-container {
+    margin-top: 1rem;
+  }
+  .r-container h2 {
+    font-size: 1.2rem;
+  }
+  .r-container h1 {
+    font-size: 1.2rem;
+  }
+  .r-cards {
+    display: inline-block;
+    margin-left: 5rem;
+  }
+  .r-card {
+    width: 80%;
+    margin-bottom: 2rem;
+  }
+  .r-card p {
+    font-size: 0.9rem;
+  }
+  .photo {
+    width: 3rem;
+    height: 3rem;
+  }
+  .photo img {
+    width: 3rem;
+    height: 3rem;
+  }
+}
