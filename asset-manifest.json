@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/dream-cars-app/static/css/main.5bf8d22a.css",
+    "main.js": "/dream-cars-app/static/js/main.73b73611.js",
+    "static/media/BMW M.png": "/dream-cars-app/static/media/BMW M.a9d961e39550415fc9ce.png",
+    "static/media/heroBg.png": "/dream-cars-app/static/media/heroBg.c43c4862422e70d88698.png",
+    "static/media/photo2.jpeg": "/dream-cars-app/static/media/photo2.62416e43602ec3a6b987.jpeg",
+    "static/media/photo1.webp": "/dream-cars-app/static/media/photo1.2b5e14701c4f56ce3e6f.webp",
+    "static/media/logo.png": "/dream-cars-app/static/media/logo.fdb27f9793bec6fa8469.png",
+    "static/media/photo3.webp": "/dream-cars-app/static/media/photo3.6eebbfa6566dbada6a4f.webp",
+    "index.html": "/dream-cars-app/index.html",
+    "main.5bf8d22a.css.map": "/dream-cars-app/static/css/main.5bf8d22a.css.map",
+    "main.73b73611.js.map": "/dream-cars-app/static/js/main.73b73611.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bf8d22a.css",
+    "static/js/main.73b73611.js"
+  ]
+}
